@@ -4,7 +4,7 @@ Python program which uses generators to recursevily yield all the possible solut
 ## Usage
 Create sudoku board that you want to be solved by the program like the one below
 ```python
-test_board = [ #0 means an empty spot to be filled
+test_board = [   #0 means an empty spot to be filled
     [5, 3, 0, 0, 7, 0, 0, 0, 0],
     [6, 0, 0, 1, 9, 5, 0, 0, 0],
     [0, 9, 8, 0, 0, 0, 0, 6, 0],
