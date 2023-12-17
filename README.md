@@ -1,4 +1,4 @@
-# sudoku-solver
+# Sudoku-Solver
 Python program which uses generators to recursevily yield all the possible solution of the given sudoku puzzle
 
 ## Usage
